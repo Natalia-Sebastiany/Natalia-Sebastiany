@@ -1,6 +1,6 @@
 - Olá, sou @Natalia-Sebastiany
-- Estou interessada em programação, com foco em banco de dados
-- Atualmente estou aprendendo algoritmos de programação
+- Estudante de programação, com foco em banco de dados
+- Aprendendo algoritmos de programação
 
 
 <!---
